@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Yomega96 , I'm Italian, I'm 24
+- 👀 My developing interests are C#/C++/JS/PHP/HTML/MySQL
+- 🧤 I'm actually working as a Mechanical 3D Designer
+- 🎈 Out of coding and work, I'm an amateur R/C driver, love 3D designing and 3D printing, trying to raise a YouTube Channel
+- 🌱 I’m currently learning C++ for Arduino based projects
+- 📫 How to reach me? IG: @andreattathomas96 @techboys_ita
